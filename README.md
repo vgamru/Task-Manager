@@ -6,6 +6,7 @@ Install Python
 pip install mysqlclient
 create project
 create application
+migrate application
 migrate
 runserver
 
